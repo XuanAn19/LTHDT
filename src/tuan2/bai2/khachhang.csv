@@ -1,0 +1,4 @@
+Customer Id,Customer Name,Sex,Birthday,Email,Address,Point
+"10001","Nguyen Van A","Male","2000/01/12","a@gmail.com","Quy Nhon","50"
+"10002","Tran Thi B","Female","1995/06/20","b@gmail.com","Ho Chi Minh","200"
+"10003","Le Van C","Male","1988/10/15","c@gmail.com","Ha Noi","1200"
